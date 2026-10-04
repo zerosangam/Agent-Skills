@@ -1,6 +1,7 @@
 # 🤖 AI Agent Control Center
 
 Yeh folder aapke AI Agents ke liye **Master Command Center** hai.
+appko recurment(project related) ko appko INSTRUCTIONS.md file me **PART 17 — BRIEF PLACEHOLDER**  me dalna hai baki sar work ai ker dega 
 
 ## 📄 Main File:
 - **[`AGENT_MASTER_INSTRUCTIONS.md`](./AGENT_MASTER_INSTRUCTIONS.md)**: 
